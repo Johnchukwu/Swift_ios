@@ -1,0 +1,6 @@
+framework module Crypto_wallet {
+  umbrella header "Crypto_wallet.h"
+  export *
+
+  module * { export * }
+}
